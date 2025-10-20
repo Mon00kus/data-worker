@@ -19,7 +19,8 @@ Data Worker Functionality
 
   User Notification: Sends an email to the user (using the Console EMAIL_BACKEND for debugging) notifying that the analysis is complete and including the analysis result.
 
-  To run client , use:
+    To run client , use:
   >> celery -A core worker -l info --pool=solo
-  To run server , use:
+  
+    To run server , use:
   >> python manage.py runserver
