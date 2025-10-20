@@ -1,0 +1,9 @@
+transaction_id,timestamp,region,product_category,value_column,quantity
+T001,2025-07-01 09:30:00,North,Electronics,499.99,1
+T002,2025-07-01 10:15:00,South,Clothing,55.50,2
+T003,2025-07-01 11:00:00,North,Electronics,1200.00,1
+T004,2025-07-01 14:45:00,West,Books,15.99,3
+T005,2025-07-02 08:00:00,East,Home Goods,75.25,1
+T006,2025-07-02 12:30:00,North,Clothing,89.99,2
+T007,2025-07-02 15:00:00,South,Electronics,29.50,4
+T008,2025-07-03 10:00:00,West,Home Goods,300.00,1

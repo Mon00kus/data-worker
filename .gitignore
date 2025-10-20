@@ -1,0 +1,22 @@
+# Archivos/Directorios generados localmente por Python y Entornos Virtuales
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos de caché
+__pycache__/
+*.pyc
+*.pyd
+*.o
+
+# Archivos de Django
+db.sqlite3
+/media
+/static
+
+# Archivos específicos de OS/IDE
+.DS_Store
+.idea/
+.vscode/
